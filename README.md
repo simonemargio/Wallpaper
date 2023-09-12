@@ -3,7 +3,7 @@
 The purpose of this repository is to keep all my wallpapers. I'm constantly changing them, adding and deleting them. This repo allows me to keep them all indexed and in one source.
 
 **The wallpaper below are compressed!**  
-If you want to download a go to the wallpaper folder.
+If you want to download, go to the wallpaper folder.
 
 List of all wallpapers:
 
