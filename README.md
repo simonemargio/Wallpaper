@@ -330,6 +330,23 @@ N°130
   <!-- END -->
 </details>
 
+<details>
+  <summary>&#128073 <b>131 - 134</b></summary><br/>
+
+  <!-- START -->
+
+N°131
+![131_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/c908c5bb-b7e8-49a0-8723-b739d5443c79)
+N°132
+![132_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/abd056d8-f70e-41c0-8fc2-a7c1408a78bd)
+N°133
+![133_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/4145b147-a516-47ee-bfac-7514b4f4f9ef)
+N°134
+![134_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/15d88e28-bac9-4eb7-a60e-e1d9da3dbd3b)
+
+  <!-- END -->
+</details>
+
 # Contribute
 
 You can fork and pull by adding as many wallpapers as you like ❤️
