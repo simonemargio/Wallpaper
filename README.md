@@ -360,7 +360,7 @@ N°140
 </details>
 
 <details>
-  <summary>&#128073 <b>141 - 146</b></summary><br/>
+  <summary>&#128073 <b>141 - 152</b></summary><br/>
 
   <!-- START -->
 
@@ -376,6 +376,18 @@ N°145
 ![145_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/597f1ce1-495c-42b4-a6a2-87c354af862e)
 N°146
 ![146_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/d3ffaa00-8166-41b4-92bb-22743150b8a5)
+N°147
+![147_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/ed29d1ec-c76d-4cad-926f-70826c2cadcb)
+N°148
+![148_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/ff28c819-31d2-46e6-a2c0-737114557fc1)
+N°149
+![149_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/8fd0b77b-3cc6-452f-8685-dd9313a11c44)
+N°150
+![150_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/0d4c3dda-b930-4d8b-9370-a97ec2d3ed7a)
+N°151
+![151_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/f394a98d-0023-4623-b058-3273d3c02122)
+N°152
+![152_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/d35b1111-7bb8-4c5b-a997-13d1b2570147)
 
   <!-- END -->
 </details>
