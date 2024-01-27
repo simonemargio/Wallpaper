@@ -1,9 +1,10 @@
-# Wallpaper
+# Wallpaper 🎨
 
-The purpose of this repository is to keep all my wallpapers. I'm constantly changing them, adding and deleting them. This repo allows me to keep them all indexed and in one source.
+The purpose of this repository is to keep all my wallpapers.<br />I'm constantly changing them, adding and deleting them.<br />This repo allows me to keep them all indexed and in one source.
 
-**The wallpaper below are compressed!**  
-If you want to download, go to the wallpaper folder.
+> [!IMPORTANT]
+> **The wallpaper list below is compressed!**<br />
+> If you want to download, go to the wallpaper folder.
 
 List of all wallpapers:
 
@@ -409,7 +410,7 @@ N°160
 </details>
 
 <details>
-  <summary>&#128073 <b>161 - 164</b></summary><br/>
+  <summary>&#128073 <b>161 - 170</b></summary><br/>
 
 N°161
 ![161_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/f8b4ac7d-c7d4-4f3a-bd93-d39aaae0cae4)
@@ -419,11 +420,39 @@ N°163
 ![163_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/4123dfe6-6793-469d-8763-2161c5ccaa39)
 N°164
 ![164_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/816f7bfa-ab49-4cf5-86ce-a97bc55b8e38)
+N°165
+![165_wallpaper - 01](https://github.com/simonemargio/Wallpaper/assets/22590804/90869dcf-5c4c-45ae-88cd-5403bb99c952)
+N°166
+![166_wallpaper - 01](https://github.com/simonemargio/Wallpaper/assets/22590804/cdd8b5b5-1292-436b-8c1b-65eebd67a1e9)
+N°167
+![167_wallpaper - 01](https://github.com/simonemargio/Wallpaper/assets/22590804/14673332-71fd-475e-8ccc-c0a3c3a148ad)
+N°168
+![168_wallpaper - 01](https://github.com/simonemargio/Wallpaper/assets/22590804/4904d147-1643-45c8-bbb6-5bf494d23595)
+N°169
+![169_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/3c8262b6-3be0-41b2-b73b-5db7d0dc38f0)
+N°170
+![170_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/800dde85-85ed-4e99-bbf8-a61e1e7a9620)
 
   <!-- END -->
 </details>
 
+<details>
+  <summary>&#128073 <b>171 - 177</b></summary><br/>
 
-# Contribute
+N°171
+![171_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/3f80798f-bb85-457c-a53e-feb7ee80817a)
+N°172
+![172_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/066f6510-b50b-4404-bf99-f3aceed6a1da)
+N°173
+![173_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/1107e665-d3b3-42f5-b331-bec8a172d914)
+N°174
+![174_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/af0f92fe-a93d-4c83-9eb8-2d001b1fafaa)
+N°175
+![175_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/c91ff293-03cf-476b-b97f-562b69aff4f2)
+N°176
+![176_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/6ca6fd85-2730-4486-a2e8-bfa62af6ad5c)
+N°177
+![177_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/1335b34f-bd93-49ad-ae99-8c2369e95541)
 
-You can fork and pull by adding as many wallpapers as you like ❤️
+  <!-- END -->
+</details>
