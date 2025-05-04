@@ -733,7 +733,7 @@ N°260
 
 
 <details>
-  <summary>&#128073 <b>261 - 267</b></summary><br/>
+  <summary>&#128073 <b>261 - 270</b></summary><br/>
 
 N°261
 ![261_wallpaper](https://github.com/user-attachments/assets/96fd7e9d-2671-4fd1-8324-4840e1ccc872)
@@ -756,12 +756,34 @@ N°266
 N°267
 ![267_wallpaper](https://github.com/user-attachments/assets/223d7d03-996a-4004-b2c0-a1d4af12669f)
 
+N°268
+![268_wallpaper](https://github.com/user-attachments/assets/60fd0eb1-7964-476c-87b1-9494c3fad8ae)
+
+N°269
+![269_wallpaper](https://github.com/user-attachments/assets/1b01c10a-8f85-4520-a9e4-f9cb24f94567)
+
+N°270
+![270_wallpaper](https://github.com/user-attachments/assets/67f65812-8ce3-4715-8e71-972f985f7ac8)
+
   <!-- END -->
 </details>
 
 
+<details>
+  <summary>&#128073 <b>271 - 274</b></summary><br/>
 
+N°271
+![271_wallpaper](https://github.com/user-attachments/assets/0f7fcd16-0253-4768-b548-4fa5ed194a79)
 
+N°272
+![272_wallpaper](https://github.com/user-attachments/assets/c64683bf-4c99-4284-b5ab-32c252785f56)
 
+N°273
+![273_wallpaper](https://github.com/user-attachments/assets/3af401ef-1268-46e4-b9a6-954ac52fab99)
 
+N°274
+![274_wallpaper](https://github.com/user-attachments/assets/97c6c6ad-57a6-4783-a027-6e242f76e4bd)
+
+  <!-- END -->
+</details>
 
