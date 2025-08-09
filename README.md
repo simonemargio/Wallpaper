@@ -9,7 +9,7 @@ The purpose of this repository is to keep all my wallpapers.<br />I'm constantly
 List of all wallpapers:
 
 <details>
-  <summary>&#128073 <b>001 - 020</b></summary><br/>
+  <summary>&#128073 <b>001 - 100</b></summary><br/>
 
   <!-- START -->
 
@@ -53,15 +53,6 @@ N°019
 ![019_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/93d7d3f1-2aa0-48b5-8add-c073616296df)
 N°020
 ![020_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/232c3da1-4b22-4951-9ffe-34b37952404d)
-
-  <!-- END -->
-</details>
-
-<details>
-  <summary>&#128073 <b>021 - 040</b></summary><br/>
-
-  <!-- START -->
-
 N°021
 ![021_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/f060c4ab-470d-49a7-b7be-3669a903c266)
 N°022
@@ -102,15 +93,6 @@ N°039
 ![039_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/7b339f59-5f3b-4442-ba90-684b4131c955)
 N°040
 ![040_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/2243b116-9433-4730-aed1-1fe8282a68b4)
-
-  <!-- END -->
-</details>
-
-<details>
-  <summary>&#128073 <b>041 - 060</b></summary><br/>
-
-  <!-- START -->
-
 N°041
 ![041_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/4d242c70-c70b-48aa-aa0a-7d53a9883693)
 N°042
@@ -151,15 +133,6 @@ N°059
 ![059_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/16923025-342e-4558-b425-8cd703193391)
 N°060
 ![060_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/815588cc-4fdb-477e-a5b4-b06e8212b8db)
-
-  <!-- END -->
-</details>
-
-<details>
-  <summary>&#128073 <b>061 - 080</b></summary><br/>
-
-  <!-- START -->
-
 N°061
 ![061_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/5785adad-48da-406c-ac88-943d9ea3a9ec)
 N°062
@@ -200,15 +173,6 @@ N°079
 ![079_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/29028e16-9b6b-41b2-a820-2a1fd693a49e)
 N°080
 ![080_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/990ee81e-84b1-4002-a053-bab5be284e28)
-
-  <!-- END -->
-</details>
-
-<details>
-  <summary>&#128073 <b>081 - 100</b></summary><br/>
-
-  <!-- START -->
-
 N°081
 ![081_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/2bd18b31-9021-48a6-b0ef-3fda9fb9f85a)
 N°082
@@ -254,7 +218,7 @@ N°100
 </details>
 
 <details>
-  <summary>&#128073 <b>100 - 120</b></summary><br/>
+  <summary>&#128073 <b>101 - 200</b></summary><br/>
 
   <!-- START -->
 
@@ -298,15 +262,6 @@ N°119
 ![119_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/bd72517c-450a-4201-88ca-e8ea6dd0b79a)
 N°120
 ![120_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/8121bdb3-0d93-4e40-9381-64a98c004be8)
-
-  <!-- END -->
-</details>
-
-<details>
-  <summary>&#128073 <b>121 - 130</b></summary><br/>
-
-  <!-- START -->
-
 N°121
 ![121_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/d55f35ef-fa1a-4918-bcaf-dba5cae4f3b8)
 N°122
@@ -327,15 +282,6 @@ N°129
 ![129_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/ca5b7ea3-fbb1-4bee-92ab-9eeda3453371)
 N°130
 ![130_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/85246d84-d29b-4693-8695-4a0153b8337a)
-
-  <!-- END -->
-</details>
-
-<details>
-  <summary>&#128073 <b>131 - 140</b></summary><br/>
-
-  <!-- START -->
-
 N°131
 ![131_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/31748aae-386b-408d-b092-c1586fc503d9)
 N°132
@@ -356,15 +302,6 @@ N°139
 ![139_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/bad9336d-e895-4c2a-8ca8-ccba9bf8ebf8)
 N°140
 ![140_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/8ee1086d-1ca6-43d0-9c7f-f5f6cc2e4a50)
-
-  <!-- END -->
-</details>
-
-<details>
-  <summary>&#128073 <b>141 - 160</b></summary><br/>
-
-  <!-- START -->
-
 N°141
 ![141_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/9c8a8bb0-1950-4964-8aba-e65c9a3ba40e)
 N°142
@@ -405,13 +342,6 @@ N°159
 ![159_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/583a6d19-5ea3-4c32-8de2-db8585a0c30d)
 N°160
 ![160_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/66fae110-f8be-4464-916c-4ba3c2ad17f5)
-
-  <!-- END -->
-</details>
-
-<details>
-  <summary>&#128073 <b>161 - 170</b></summary><br/>
-
 N°161
 ![161_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/f8b4ac7d-c7d4-4f3a-bd93-d39aaae0cae4)
 N°162
@@ -432,13 +362,6 @@ N°169
 ![169_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/3c8262b6-3be0-41b2-b73b-5db7d0dc38f0)
 N°170
 ![170_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/800dde85-85ed-4e99-bbf8-a61e1e7a9620)
-
-  <!-- END -->
-</details>
-
-<details>
-  <summary>&#128073 <b>171 - 180</b></summary><br/>
-
 N°171
 ![171_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/3f80798f-bb85-457c-a53e-feb7ee80817a)
 N°172
@@ -459,13 +382,6 @@ N°179
 ![179_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/2e11a911-cd2d-4e66-9be3-a70b0891e549)
 N°180
 ![180_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/69784938-483e-428f-b981-defa0c27b50f)
-
-  <!-- END -->
-</details>
-
-<details>
-  <summary>&#128073 <b>181 - 190</b></summary><br/>
-
 N°181
 ![181_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/a3e3d3c9-0fde-4853-9d4b-308467d8d571)
 N°182
@@ -486,13 +402,6 @@ N°189
 ![189_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/b4e8a334-d846-43e7-9b3e-e28eca8c8380)
 N°190
 ![190_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/6ff9d8ed-74e7-418b-9974-f884e2d2002c)
-
-  <!-- END -->
-</details>
-
-<details>
-  <summary>&#128073 <b>191 - 200</b></summary><br/>
-
 N°191
 ![191_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/a79c82dc-f805-4851-8354-815de38879cf)
 N°192
@@ -519,8 +428,9 @@ N°200
   <!-- END -->
 </details>
 
+
 <details>
-  <summary>&#128073 <b>201 - 220</b></summary><br/>
+  <summary>&#128073 <b>201 - 300</b></summary><br/>
 
 N°201
 ![201_wallpaper](https://github.com/simonemargio/Wallpaper/assets/22590804/d533b330-aaf9-4e5a-bf3d-bc7f667da109)
@@ -582,13 +492,6 @@ N°219
 N°220
 ![220_wallpaper](https://github.com/user-attachments/assets/60c4d4fb-26ce-4786-a599-796c4fdd3d75)
 
-
-  <!-- END -->
-</details>
-
-<details>
-  <summary>&#128073 <b>221 - 230</b></summary><br/>
-
 N°221
 ![221_wallpaper](https://github.com/user-attachments/assets/4f32999d-f33f-4ac8-8467-ade3f1eb60e0)
 
@@ -619,14 +522,6 @@ N°229
 N°230
 ![230_wallpaper](https://github.com/user-attachments/assets/c4709df3-ed78-42ca-8e00-d8ca8a935b95)
 
-  <!-- END -->
-</details>
-
-
-
-<details>
-  <summary>&#128073 <b>231 - 240</b></summary><br/>
-
 N°231
 ![231_wallpaper](https://github.com/user-attachments/assets/80135217-ab0c-4f36-bdbc-9ab5a2d1bea4)
 
@@ -656,12 +551,6 @@ N°239
 
 N°240
 ![240_wallpaper](https://github.com/user-attachments/assets/f6d84779-6dab-4165-80a5-f7cbbee134b3)
-  <!-- END -->
-</details>
-
-
-<details>
-  <summary>&#128073 <b>241 - 250</b></summary><br/>
 
 N°241
 ![241_wallpaper](https://github.com/user-attachments/assets/eb0e67fa-7022-4804-a6b2-2a760a51071f)
@@ -692,11 +581,6 @@ N°249
 
 N°250
 ![250_wallpaper](https://github.com/user-attachments/assets/d0a07a2e-fb9c-4074-9cd6-fe2a3763093e)
-  <!-- END -->
-</details>
-
-<details>
-  <summary>&#128073 <b>251 - 260</b></summary><br/>
 
 N°251
 ![251_wallpaper](https://github.com/user-attachments/assets/f81a79aa-d013-4d18-aaa4-57522c0ae072)
@@ -727,14 +611,6 @@ N°259
 
 N°260
 ![260_wallpaper](https://github.com/user-attachments/assets/1abe872e-f750-4cc7-b18c-1b9e9a07b158)
-
-  <!-- END -->
-</details>
-
-
-<details>
-  <summary>&#128073 <b>261 - 270</b></summary><br/>
-
 N°261
 ![261_wallpaper](https://github.com/user-attachments/assets/96fd7e9d-2671-4fd1-8324-4840e1ccc872)
 
@@ -764,14 +640,6 @@ N°269
 
 N°270
 ![270_wallpaper](https://github.com/user-attachments/assets/67f65812-8ce3-4715-8e71-972f985f7ac8)
-
-  <!-- END -->
-</details>
-
-
-<details>
-  <summary>&#128073 <b>271 - 288</b></summary><br/>
-
 N°271
 ![271_wallpaper](https://github.com/user-attachments/assets/0f7fcd16-0253-4768-b548-4fa5ed194a79)
 
@@ -826,7 +694,60 @@ N°287
 N°288
 ![288_wallpaper](https://github.com/user-attachments/assets/91df525e-4582-4f4c-87b9-bdccb20a8e19)
 
+N°289
+![289_wallpaper](https://github.com/user-attachments/assets/67afd24f-4894-44e1-8ecc-38b9aecb2494)
+
+N°290
+![290_wallpaper](https://github.com/user-attachments/assets/35cac1e4-7d86-4961-a5d5-37072c3dbe15)
+
+N°291
+![291_wallpaper](https://github.com/user-attachments/assets/3302d394-7f33-4b0d-9247-209c76ff1a14)
+
+N°292
+![292_wallpaper](https://github.com/user-attachments/assets/24a5fbc0-3341-48b7-843e-820245830cf7)
+
+N°293
+![293_wallpaper](https://github.com/user-attachments/assets/3dd648d6-3a0c-4953-938f-986d91105f7c)
+
+N°294
+![294_wallpaper](https://github.com/user-attachments/assets/d495faee-f176-44db-bdbb-894a6c969cbb)
+
+N°295
+![295_wallpaper](https://github.com/user-attachments/assets/3c2f597d-54a7-4be0-8a8f-879aaaa9e469)
+
+N°296
+![296_wallpaper](https://github.com/user-attachments/assets/b238f71f-09c1-4b26-8c05-69f95961ffc2)
+
+N°297
+![297_wallpaper](https://github.com/user-attachments/assets/44dd86f3-e0e7-467e-a7b7-edfbf59bfacc)
+
+N°298
+![298_wallpaper](https://github.com/user-attachments/assets/7e9233f0-08e5-4571-a698-135f21aedaba)
+
+N°299
+![299_wallpaper](https://github.com/user-attachments/assets/67e656e8-7c4d-43b6-aec3-c2bb98f7b918)
+
+N°300
+![300_wallpaper](https://github.com/user-attachments/assets/03d5ed16-0bed-4736-8efc-e11581e54e44)
+
+
   <!-- END -->
 </details>
 
+<details>
+  <summary>&#128073 <b>301 - 304</b></summary><br/>
+
+N°301
+![301_wallpaper](https://github.com/user-attachments/assets/ee734923-84f9-41b2-bb81-105f0fc30821)
+
+N°302
+![302_wallpaper](https://github.com/user-attachments/assets/1dfd2af2-78ec-40b8-9f8b-bff7d5423627)
+
+N°303
+![303_wallpaper](https://github.com/user-attachments/assets/33236430-db51-46b2-835b-d21335c9532f)
+
+N°304
+![304_wallpaper](https://github.com/user-attachments/assets/7582559c-10b3-43e1-8c89-89df08485785)
+  <!-- END -->
+</details>
 
